@@ -1,5 +1,5 @@
 {
-	"name": "sky/guard-client",
+	"name": "sky/sky-guard-client",
 	"description": "Sky Guard Client",
 	"homepage": "",
 	"type": "library",
@@ -15,6 +15,6 @@
             "yiisoft/yii2": ">=2.0.6"
 	},
 	"autoload": {
-		"psr-4": {"sky\\guard-client\\": "src/"}
+		"psr-4": {"sky\\gcx\\": "src/"}
 	}
 }
